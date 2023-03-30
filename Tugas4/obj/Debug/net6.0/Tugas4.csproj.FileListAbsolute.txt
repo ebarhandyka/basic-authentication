@@ -1,0 +1,15 @@
+C:\Users\ASUS mc\source\repos\Latihan\Tugas4\bin\Debug\net6.0\Tugas4.exe
+C:\Users\ASUS mc\source\repos\Latihan\Tugas4\bin\Debug\net6.0\Tugas4.deps.json
+C:\Users\ASUS mc\source\repos\Latihan\Tugas4\bin\Debug\net6.0\Tugas4.runtimeconfig.json
+C:\Users\ASUS mc\source\repos\Latihan\Tugas4\bin\Debug\net6.0\Tugas4.dll
+C:\Users\ASUS mc\source\repos\Latihan\Tugas4\bin\Debug\net6.0\Tugas4.pdb
+C:\Users\ASUS mc\source\repos\Latihan\Tugas4\obj\Debug\net6.0\Tugas4.csproj.AssemblyReference.cache
+C:\Users\ASUS mc\source\repos\Latihan\Tugas4\obj\Debug\net6.0\Tugas4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS mc\source\repos\Latihan\Tugas4\obj\Debug\net6.0\Tugas4.AssemblyInfoInputs.cache
+C:\Users\ASUS mc\source\repos\Latihan\Tugas4\obj\Debug\net6.0\Tugas4.AssemblyInfo.cs
+C:\Users\ASUS mc\source\repos\Latihan\Tugas4\obj\Debug\net6.0\Tugas4.csproj.CoreCompileInputs.cache
+C:\Users\ASUS mc\source\repos\Latihan\Tugas4\obj\Debug\net6.0\Tugas4.dll
+C:\Users\ASUS mc\source\repos\Latihan\Tugas4\obj\Debug\net6.0\refint\Tugas4.dll
+C:\Users\ASUS mc\source\repos\Latihan\Tugas4\obj\Debug\net6.0\Tugas4.pdb
+C:\Users\ASUS mc\source\repos\Latihan\Tugas4\obj\Debug\net6.0\Tugas4.genruntimeconfig.cache
+C:\Users\ASUS mc\source\repos\Latihan\Tugas4\obj\Debug\net6.0\ref\Tugas4.dll
